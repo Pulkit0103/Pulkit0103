@@ -1,9 +1,9 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Pulkit Girdhar</h1>
+<h1 align="center">Hi 👋, I'm Pulkit Girdhar</h1>
 
-<h3 align="center">Senior Software Engineer Â· Backend & Cloud Architect</h3>
+<h3 align="center">Senior Software Engineer · Backend & Cloud Architect</h3>
 
 <p align="center">
-  I build scalable, production-grade backend systems â€” microservices, distributed messaging, and cloud-native architecture.
+  I build scalable, production-grade backend systems — microservices, distributed messaging, and cloud-native architecture.
 </p>
 
 <p align="center">
@@ -17,12 +17,12 @@
 
 ### About me
 
-- ðŸ”­ Senior Software Engineer at **Accenture**, working on concurrency-safe processing pipelines with **Spring Boot** and **Azure Cosmos DB**
-- ðŸ§± Currently building **[Sentinel Gateway](https://github.com/Pulkit0103/sentinel-gateway)** â€” a zero-trust API security and traffic management platform
-- ðŸŒ± Going deep on **distributed systems** â€” consensus, replication, and storage engine internals
-- ðŸ’¬ Ask me about **Java, Spring Boot, Kafka, Kubernetes, and system design**
-- ðŸ† **4â˜… CodeChef** (1890) Â· **LeetCode Knight** (1880+) Â· **Codeforces Specialist** (1474)
-- âš¡ Off the clock I'm watching cricket, F1, and football â€” or playing PC games
+- 🔭 Senior Software Engineer at **Accenture**, working on concurrency-safe processing pipelines with **Spring Boot** and **Azure Cosmos DB**
+- 🧱 Currently building **[Sentinel Gateway](https://github.com/Pulkit0103/sentinel-gateway)** — a zero-trust API security and traffic management platform
+- 🌱 Going deep on **distributed systems** — consensus, replication, and storage engine internals
+- 💬 Ask me about **Java, Spring Boot, Kafka, Kubernetes, and system design**
+- 🏆 **4★ CodeChef** (1890) · **LeetCode Knight** (1880+) · **Codeforces Specialist** (1474)
+- ⚡ Off the clock I'm watching cricket, F1, and football — or playing PC games
 
 ---
 
@@ -30,10 +30,10 @@
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **[Sentinel Gateway](https://github.com/Pulkit0103/sentinel-gateway)** | Zero-trust API security platform with a nine-layer pipeline â€” OAuth2/JWT auth, RBAC, tenant isolation, WAF threat detection, distributed rate limiting, and HMAC replay prevention. | Spring Cloud Gateway Â· Keycloak Â· Redis Â· Kafka Â· K8s |
-| **[NebulaKV](https://github.com/Pulkit0103/nebula-kv)** | Distributed, fault-tolerant key-value database built from scratch â€” LSM storage with WAL and SSTables, consistent hashing, quorum reads/writes, gossip membership, and hinted handoff. Speaks RESP2, so `redis-cli` just works. | Java 17 Â· Maven Â· Prometheus Â· Docker |
-| **[Blockchain Lottery DApp](https://github.com/Pulkit0103/Lottery-Dapp)** | Decentralized lottery on Ethereum/Polygon â€” automates ticket sales, winner selection, and payouts with no intermediary. | Solidity Â· React Â· Polygon Â· MetaMask |
-| **[pulkit-0103.dev](https://github.com/Pulkit0103/pulkit-0103.dev)** | My portfolio site. Fully config-driven â€” one file drives every section. | Next.js 15 Â· TypeScript Â· Tailwind |
+| **[Sentinel Gateway](https://github.com/Pulkit0103/sentinel-gateway)** | Zero-trust API security platform with a nine-layer pipeline — OAuth2/JWT auth, RBAC, tenant isolation, WAF threat detection, distributed rate limiting, and HMAC replay prevention. | Spring Cloud Gateway · Keycloak · Redis · Kafka · K8s |
+| **[NebulaKV](https://github.com/Pulkit0103/nebula-kv)** | Distributed, fault-tolerant key-value database built from scratch — LSM storage with WAL and SSTables, consistent hashing, quorum reads/writes, gossip membership, and hinted handoff. Speaks RESP2, so `redis-cli` just works. | Java 17 · Maven · Prometheus · Docker |
+| **[Blockchain Lottery DApp](https://github.com/Pulkit0103/Lottery-Dapp)** | Decentralized lottery on Ethereum/Polygon — automates ticket sales, winner selection, and payouts with no intermediary. | Solidity · React · Polygon · MetaMask |
+| **[pulkit-0103.dev](https://github.com/Pulkit0103/pulkit-0103.dev)** | My portfolio site. Fully config-driven — one file drives every section. | Next.js 15 · TypeScript · Tailwind |
 
 ---
 
@@ -83,13 +83,13 @@
 
 ### Competitive Programming
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-4â˜…%20(1890)-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/pulkit0103)
+[![CodeChef](https://img.shields.io/badge/CodeChef-4★%20(1890)-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/pulkit0103)
 ![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20(1880%2B)-FFA116?style=flat-square&logo=leetcode&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-Specialist%20(1474)-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
 
-- **Google Kick Start 2022** â€” AIR 1173 of 10,000+ participants (Round E)
-- **Meta Hacker Cup 2022** â€” Global Rank 8292, AIR 4452 of 27,000+ participants
-- **AWS Certified Solutions Architect** â€“ Associate
+- **Google Kick Start 2022** — AIR 1173 of 10,000+ participants (Round E)
+- **Meta Hacker Cup 2022** — Global Rank 8292, AIR 4452 of 27,000+ participants
+- **AWS Certified Solutions Architect** – Associate
 
 ---
 
